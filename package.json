@@ -15,7 +15,7 @@
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-import": "^2.12.0",
     "source-map-loader": "^0.2.3",
-    "typescript": "^2.9.2",
+    "typescript": "^4.2.4",
     "webpack": "^4.12.0",
     "webpack-command": "^0.2.1"
   }
